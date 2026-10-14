@@ -1,0 +1,57 @@
+:root {
+  --font: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+
+  /* Superficies: escritorio de día, papel y carpeta. Un solo modo (claro). */
+  --bg: #f6f7f5;
+  --surface: #ffffff;
+  --sunken: #edf0ec;
+  --side: #e9ede9;
+
+  --ink: #14201c;
+  --ink-2: #44524d;
+  --ink-3: #5b6964;
+  --line: #d9dfda;
+  --line-strong: #b4bfb8;
+
+  --primary: #0e4f5c;
+  --primary-hover: #0a3e49;
+  --primary-press: #072f38;
+  --primary-tint: #dcebee;
+  --on-primary: #ffffff;
+
+  --ok: #1f6b45;
+  --ok-bg: #e1f0e7;
+  --warn: #7a4e00;
+  --warn-bg: #faebc8;
+  --bad: #a3241a;
+  --bad-bg: #fadfdb;
+  --neutral: #3e4c56;
+  --neutral-bg: #e3e8eb;
+
+  --focus: #1a7f93;
+
+  --r-sm: 4px;
+  --r: 6px;
+  --r-lg: 10px;
+
+  --s1: 4px;
+  --s2: 8px;
+  --s3: 12px;
+  --s4: 16px;
+  --s5: 24px;
+  --s6: 32px;
+  --s7: 48px;
+
+  --fs-xs: 0.8125rem;
+  --fs-sm: 0.875rem;
+  --fs-base: 0.9375rem;
+  --fs-md: 1.0625rem;
+  --fs-lg: 1.25rem;
+  --fs-xl: 1.625rem;
+
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+  --t: 160ms;
+
+  --side-w: 15.5rem;
+  --content-w: 74rem;
+}
